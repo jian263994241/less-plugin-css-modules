@@ -2,7 +2,7 @@
 # Installation
 
 ```
-npm install less-plugin-css-modules
+npm install less-plugin-css-modules2
 ```
 
 ## Usage
