@@ -25,7 +25,7 @@ function getCSSProcessor(less){
   function CSSProcessor(options = {}){
     this.options = _.defaults(options, {
       mode: 'local', // global or local
-      generateScopedName: '[name]_[local]_[hash:base64:8]',
+      generateScopedName: '[local]_[hash:base64:8]',
       hashPrefix: 'less',
       getJSON: function(){}
     });
