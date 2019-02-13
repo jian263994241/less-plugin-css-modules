@@ -1,6 +1,6 @@
 {
   "name": "less-plugin-css-modules2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A less plugin for css modules.",
   "main": "index.js",
   "scripts": {
@@ -11,8 +11,10 @@
     "url": "git+https://github.com/jian263994241/less-plugin-css-modules.git"
   },
   "keywords": [
+    "css modules",
+    "less",
     "less plugin",
-    "css modules"
+    "less css modules"
   ],
   "author": "jianl",
   "license": "ISC",
