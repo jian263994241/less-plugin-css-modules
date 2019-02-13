@@ -1,0 +1,30 @@
+{
+  "name": "less-plugin-css-modules2",
+  "version": "0.0.1",
+  "description": "A less plugin for css modules.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jian263994241/less-plugin-css-modules.git"
+  },
+  "keywords": [
+    "less plugin",
+    "css modules"
+  ],
+  "author": "jianl",
+  "license": "ISC",
+  "dependencies": {
+    "generic-names": "^2.0.1",
+    "postcss": "^7.0.14",
+    "postcss-modules-local-by-default": "^2.0.5",
+    "postcss-modules-scope": "^2.0.1",
+    "lodash": "^4.17.11",
+  },
+  "bugs": {
+    "url": "https://github.com/jian263994241/less-plugin-css-modules/issues"
+  },
+  "homepage": "https://github.com/jian263994241/less-plugin-css-modules#readme"
+}
